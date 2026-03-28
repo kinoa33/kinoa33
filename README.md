@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hey I'm kinoa33 👋
 
-<!--
-**kinoa33/kinoa33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Welcome to my profile 🚀
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+- 🐧 Arch Linux user btw  
+- ⚡ أستخدم Neovim  
+- 🎮 مهتم بالألعاب والتقنية  
+- 💻 أتعلم برمجة وأطور نفسي  
+
+---
+
+## 🧰 Skills & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=arch,linux,neovim,git,github,discord,nodejs,python" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kinoa33&show_icons=true&theme=tokyonight" />
+</p>
+
+---
+ا
