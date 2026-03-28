@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-   Hyprland WM
+  and i use hyprland WM
 </p>
 
 ---
