@@ -3,7 +3,7 @@
 ## 🧰 Skills & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=arch,linux,discord,css,git,neovim,vim,firefox" />
+  <img src="https://skillicons.dev/icons?i=arch,linux,discord,css,git,neovim,vim,x" />
 </p>
 
 <p align="center">
