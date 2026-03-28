@@ -14,4 +14,16 @@
 
 ## 📫 Contact
 
-- Discord: ki_n01
+<p align="center">
+  <a href="https://x.com/bd_nadr73015">
+    <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  
+  <a href="https://www.instagram.com/0_kino_0?igsh=N2hzbDR2NGh3dGVv">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  
+  <a href="#">
+    <img src="https://img.shields.io/badge/Discord-ki__n01-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+</p>
