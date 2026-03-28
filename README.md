@@ -10,4 +10,4 @@
 
 ## 📫 Contact
 
-- Discord: your_username_here
+- Discord: ki_n01
