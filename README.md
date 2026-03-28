@@ -3,11 +3,11 @@
 ## 🧰 Skills & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=arch,linux,gnome,discord,css,git,neovim,vscode" />
+  <img src="https://skillicons.dev/icons?i=arch,linux,discord,css,git,neovim,vscode" />
 </p>
 
 <p align="center">
-  <img src="Untitled.png" width="300" />
+  🐧 Arch Linux + Hyprland WM
 </p>
 
 ---
