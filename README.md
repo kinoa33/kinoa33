@@ -1,4 +1,4 @@
-# Hey I'm kinoa33 👋
+# Hey I'm kino
 
 ## 🧰 Skills & Tools
 
